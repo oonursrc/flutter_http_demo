@@ -15,3 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_http_demo
+
+Refer to https://github.com/typicode/json-server
+
+run "npm install -g json-server" to install json server
+
+run "json-server --watch db.json" to start json server with db.json
